@@ -8,3 +8,11 @@ Run with arguments
 ```
 lldb -- ExeFile -arg1 -arg2
 ```
+Step over
+```
+n
+```
+Step into
+```
+s
+```
