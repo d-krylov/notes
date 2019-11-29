@@ -16,3 +16,10 @@ Step into
 ```
 s
 ```
+
+## GDB
+
+Run with arguments
+```
+gdb --args ExeFile -arg1 -arg2
+```
