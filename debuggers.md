@@ -23,3 +23,8 @@ Run with arguments
 ```
 gdb --args ExeFile -arg1 -arg2
 ```
+
+Show local variables in current frame
+```
+info locals
+```
