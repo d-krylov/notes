@@ -34,3 +34,8 @@ Enables arbitrary Git commits to be picked by reference and appended to the curr
 ```
 git cherry-pick -n CommitHash
 ```
+
+Reset changes
+```
+git reset --hard HEAD^
+```
