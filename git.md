@@ -29,3 +29,8 @@ Add remote repository
 ```
 git remote add RepositoryName RepositoryURL
 ```
+
+Enables arbitrary Git commits to be picked by reference and appended to the current working HEAD (-n - no commits)
+```
+git cherry-pick -n CommitHash
+```
