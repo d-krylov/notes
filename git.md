@@ -19,3 +19,8 @@ git remote add upstream UpstreamName
 git fetch upstream
 git merge upstream/master
 ```
+
+Add remote repository
+```
+git remote add RepositoryName RepositoryURL
+```
