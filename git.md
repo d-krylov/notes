@@ -13,6 +13,11 @@ Diff between two commits
 git diff OldCommit NewCommit
 ```
 
+Get diff name changing files
+```
+git diff --name-only origin
+```
+
 Sync master fork with master base
 ```
 git remote add upstream UpstreamName
