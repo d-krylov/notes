@@ -39,3 +39,7 @@ Reset changes
 ```
 git reset --hard HEAD^
 ```
+
+```
+git submodule sync
+```
