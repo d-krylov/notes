@@ -34,3 +34,10 @@ Show local variables in current frame
 ```
 info locals
 ```
+
+Debug child process
+```
+gdb -p PID
+set follow-fork-mode child
+c
+```
